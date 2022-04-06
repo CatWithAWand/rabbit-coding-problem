@@ -3,7 +3,7 @@
 // any index the rabbit moves to a random
 // adjascent hole.
 
-// Rules: You must call Rabbit.leap() AFTER every
+// Rules: You must call Rabbit.leap() AFTER EVERY
 // time you make a guess/iteration!
 
 // Rabbit.array returns the current array
@@ -18,7 +18,7 @@
 //     if (arr[index] === "🐇") return console.log('Found the rabbit!');
 //     rabbit.leap();
 //     do something
-
+//
 //     return myFunction(index, arr);
 // }
 // myFunction(rabbit.array, 0);
